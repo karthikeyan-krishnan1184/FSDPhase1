@@ -1,0 +1,16 @@
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\bin\Debug\net50\ProjectPhase1.exe
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\bin\Debug\net50\ProjectPhase1.deps.json
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\bin\Debug\net50\ProjectPhase1.runtimeconfig.json
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\bin\Debug\net50\ProjectPhase1.runtimeconfig.dev.json
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\bin\Debug\net50\ProjectPhase1.dll
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\bin\Debug\net50\ref\ProjectPhase1.dll
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\bin\Debug\net50\ProjectPhase1.pdb
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.csprojAssemblyReference.cache
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.AssemblyInfoInputs.cache
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.AssemblyInfo.cs
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.csproj.CoreCompileInputs.cache
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.dll
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ref\ProjectPhase1.dll
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.pdb
+C:\Users\Karthikeyan_Krishna2\OneDrive - Dell Technologies\FSD\Phase 1\ProjectPhase1\ProjectPhase1\obj\Debug\net50\ProjectPhase1.genruntimeconfig.cache
